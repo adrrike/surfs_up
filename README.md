@@ -5,9 +5,9 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Results:
 
--insert graphic
+![june_temps](https://user-images.githubusercontent.com/84742544/129772627-cd7a56eb-d909-4e68-9683-00366e93890f.PNG)
 
--insert graphic
+![dec_temps](https://user-images.githubusercontent.com/84742544/129772635-84cd813e-d6dc-4983-94fc-6daa8c221b03.PNG)
 
 - The max temperature only differs by 2 degrees, meaning there is a reasonably possibility that winter days will be almost as warm as summer days. 
 
@@ -19,8 +19,8 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Summary:
 
--I recommend looking at precipitation data to see if there are major differences in amount of rainfall between June and December.
+- I recommend looking at precipitation data to see if there are major differences in amount of rainfall between June and December.
 
--I would recommend looking at temperatures closest to where the ice cream shop will be located. While on average Oahu is remarkably consistent between June and December, this could vary depending on station location as most of Hawaii is very mountainous. 
+- I  recommend looking at temperatures closest to where the ice cream shop will be located. While on average Oahu is remarkably consistent between June and December, this could vary depending on station location as most of Hawaii is very mountainous. 
 
 
