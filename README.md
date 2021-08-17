@@ -3,9 +3,7 @@
 ## Overview of the statistical analysis:
 W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, to determine if the shop  is sustainable year-round.
 
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+## Results:
 
 -insert graphic
 
@@ -19,9 +17,7 @@ There is a bulleted list that addresses the three key differences in weather bet
 
 
 
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+## Summary:
 
 -I recommend looking at precipitation data to see if there are major differences in amount of rainfall between June and December.
 
